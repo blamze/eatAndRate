@@ -1,0 +1,8 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "eat-and-rate": "apps/eat-and-rate",
+    "eat-and-rate-e2e": "apps/eat-and-rate-e2e"
+  }
+}
